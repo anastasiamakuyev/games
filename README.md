@@ -33,11 +33,11 @@ self.current_shape = "I"
 
 ## 🐍 snake.py
 
-- Also terminal‑based. Also threaded.  
-- Uses same 2D grid approach—but with food and a growing snake  
-- Default start length is 2. Game ends on wall collision or self collision  
-- Food is random. Snake grows when it eats  
-- You can win if the snake gets long enough  
+- also terminal‑based & threaded.  
+- uses same 2D grid approach—but with food and a growing snake  
+- default start length is 2. Game ends on wall collision or self collision  
+- food is random. snake grows when it eats. (technically, the snake grows with every step but also shrinks with each step- it just doesn't shrink when it eats) 
+- you can win if the snake gets long enough  
 
 ### You can change:
 
