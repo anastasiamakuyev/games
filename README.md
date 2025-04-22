@@ -3,6 +3,8 @@
 wasn’t too comfortable doing OOP in python. didn’t understand threading.  
 i understand it now. and do oop in python at work. cool.
 
+![I understand it now](./i-understand-it-now-i-understand-it.gif)
+
 simple games — you can run these right in your terminal and play knock-off tetris or snake.  
 no fancy graphics. no setup. just run the script and use wasd.
 
